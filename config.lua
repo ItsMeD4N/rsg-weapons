@@ -12,7 +12,7 @@ Config.DegradeRate = 0.01
 Config.UpdateDegrade = 5000
 
 --- Damage Weapon
-Config.DisableCriticalHits = true 
+Config.DisableCriticalHits = false 
 Config.WeaponDamage = {
     -- Melee
     {Name = 'WEAPON_UNARMED', Damage = 1.0},
